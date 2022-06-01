@@ -5,7 +5,8 @@
 
 ![ChristofherLucas GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristofherLucas&show_icons=true&theme=radical)
 
-### Tecnologias que uso em meus projetos
+### 
+Technologies I use in my projects
 
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
